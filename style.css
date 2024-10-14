@@ -1,0 +1,25 @@
+header nav{
+    background-color: yellowgreen;
+    height: 40px;
+}
+
+header nav ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    line-height: 35px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 535px;
+    height: 50px;
+    background-color: greenyellow;
+}
+footer p{
+    text-align: center;
+    line-height: 35px;
+}
